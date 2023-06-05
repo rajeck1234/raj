@@ -14,7 +14,7 @@ tags: kde gsoc
 
 ## About Me -
 
-I am Utkarsh Kumar, currently pursuing a Bachelor of Technology (B.Tech) degree in Industries Management from the esteemed IIT Kharagpur. I am currently in my third year of study. I am pleased to announce that I have been selected for the prestigious Google Summer of Code program this year. During the program, my focus will be on enhancing the properties management of Digikam.
+I am Utkarsh Kumar, currently pursuing a Bachelor of Technology (B.Tech) degree in Industries Management from the esteemed IIT Kharagpur. I am currently in my third year of study. I am pleased to announce that I have been selected for the Properties Managment Digikam Google Summer of Code program this year. During the program, my focus will be on enhancing the properties management of Digikam.
 
 ## Digikam Poperties Managment
 Currently, users are endeavoring to modify images with a single click, such as altering image tags, author names, and the body text associated with the images. Consequently, I am actively engaged in devising a solution to address this issue. Primarily, my workflow revolves around the properties management of Digikam.</p>
