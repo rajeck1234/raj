@@ -30,7 +30,7 @@ Digikam is an exceptional application that offers a multitude of advanced featur
 </p>
 </div>
 
-#### The new Bundle Creator 
+#### The IMAGE EDITOR
 Image editing preview
 Images have metadata:
 
