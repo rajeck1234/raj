@@ -1,7 +1,6 @@
-# Gsoc 2023
 ---
 layout: post 1
-title: "GsoC 2023!"
+title: "GsoC 2023 First_post"
 date:   2023-06-01 02:00:36 +0530
 categories: gsoc
 tags: kde gsoc
@@ -30,7 +29,7 @@ Digikam is an exceptional application that offers a multitude of advanced featur
 </p>
 </div>
 
-#### The IMAGE EDITOR
+## The IMAGE EDITOR
 Image editing preview
 Images have metadata:
 
@@ -44,6 +43,6 @@ Images have metadata:
 
 Adding <b>custom tags</b>The editing and modification of image metadata are of paramount importance, with the objective of accommodating user requirements effectively. The primary aim is to ensure a user-friendly experience, enabling users to effortlessly navigate through the process without encountering any challenges or obstacles.
 
-### POST1 END
+## POST1 END
 
 
