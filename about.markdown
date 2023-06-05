@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I’m Srirupa Datta (IRC: sriru:matrix.org), a third year undergraduate studying Electrical Engineering at Jadavpur University, India.
+I’m Utkarsh Kumar, a third year undergraduate studying Industrial Engineering at Indian Institute of Technology Kharagpur Part of Research Orginazation KRSSG.
 
-This year, I have decided to take part in Season of KDE and will be working on extending the Ellipse Assistant Tool to add support for Perspective Ellipse in Krita.
+This year, I have decided to take part in Season of KDE and will be working on Digikam Properties Improvement Like tag,body serial and name etc.
 
 Github: [github.com/rajeck1234](https://www.github.com/rajeck1234)
