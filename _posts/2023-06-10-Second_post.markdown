@@ -38,7 +38,7 @@ For instance, if we have a pictures Tag from a Taglist These tags can be employe
 
 <a href="https://ibb.co/30zgMPb"><img src="https://i.ibb.co/MR6FGJH/Screenshot-2023-06-14-031145-v1.png" alt="Screenshot-2023-06-14-031145-v1" border="0"></a>
 
-This is modification of DigiKam Taglist code.
+## This is modification of DigiKam Taglist code.
 "void TagList::saveSettings()
 {
     KSharedConfigPtr config = KSharedConfig::openConfig();
