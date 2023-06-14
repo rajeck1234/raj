@@ -6,7 +6,7 @@ categories: gsoc
 tags: kde gsoc
 ---
 
-<a href="https://ibb.co/VTR9KLc"><img src="https://i.ibb.co/2dxhbF1/Screenshot-2023-06-14-204608.png" alt="Screenshot-2023-06-14-204608" border="0"></a>
+<a href="https://ibb.co/3yfcq4K"><img src="https://i.ibb.co/wNJ4XBt/Screenshot-2023-06-14-204113.png" alt="Screenshot-2023-06-14-204113" border="0"></a>
 
 
 During this week my focus on understanding the working of images tags and how they define in images i find out key words Tags are essentially labels or keywords that people attach to pictures or images to assist in categorization and organization. 
