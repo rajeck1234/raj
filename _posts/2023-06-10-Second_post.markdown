@@ -219,7 +219,9 @@ In Digikam, a powerful open-source photo management software, the tag list featu
 2. Assigning Tags: When working with an image in Digikam, assign relevant tags to it. we have the flexibility to choose tags from any existing tag list or create new ones as needed. we can add tagslist by right-clicking on the image and selecting "Tags,".This action opens the tagging dialog, allowing we to select tags from different tag lists.
 
 3. Browsing and Filtering: Once we have assigned tags to our photos, we can easily browse and filter them based on specific criteria. Within Digikam's main window, navigate to the "Tags" panel and expand the desired tag list. we will find all the tags listed within that particular list. By simply clicking on a specific tag, Digikam displays all the images associated with it. we can also perform advanced searches using multiple tags from different tag lists to narrow down our search results.
+    
 <a href="https://ibb.co/Yhhkk40"><img src="https://i.ibb.co/Rcc00Gj/Screenshot-2023-06-14-165351.png" alt="Screenshot-2023-06-14-165351" border="0"></a>
+    
 4. Tagging Hierarchy: Digikam offers the flexibility to create hierarchical tag structures, enhancing our organizational capabilities. For instance, we can establish a "Vacations" tag and create sub-tags for different travel destinations underneath it. To create a tag hierarchy, right-click on a tag, choose "Create New Tag" or "Create New Sub-Tag," and then arrange the tags within the tag list using the drag-and-drop functionality.
 
 5. Batch Tagging: To streamline the tagging process for a large number of photos that share similar tags, Digikam provides a batch tagging feature. Simply select multiple images, right-click, choose "Tags," and assign the desired tags from any tag list. This feature saves time and ensures consistent tagging across multiple photos.
