@@ -34,9 +34,9 @@ Right now the user can check it out once taglist
 
 
 Users can create a taglist or a collection of tags associated with the images by assigning Multiples tages in once Time appropriate tags to pictures. This taglists helps user in selecting multiples tages in '''Once Time.'''
-*For instance, if we have a pictures Tag from a Taglist These tags can be employed to filter and add Multiples Tags in One click.
+For instance, if we have a pictures Tag from a Taglist These tags can be employed to filter and add Multiples Tags in One click.
 <a href="https://ibb.co/30zgMPb"><img src="https://i.ibb.co/MR6FGJH/Screenshot-2023-06-14-031145-v1.png" alt="Screenshot-2023-06-14-031145-v1" border="0"></a>
-*This is modification of DigiKam Taglist code.
+This is modification of DigiKam Taglist code.
 "void TagList::saveSettings()
 {
     KSharedConfigPtr config = KSharedConfig::openConfig();
