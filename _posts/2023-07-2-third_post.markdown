@@ -19,6 +19,14 @@ As per the prescribed instructions, I intend to incorporate a copy menu and a pa
 Additionally, I have dedicated considerable time in the past two weeks to familiarize myself with the fundamental aspects of Digikam, enabling me to leverage its properties effectively.
 I am particularly interested in exploring possibilities for enhancing its functionality by incorporating new menu options.
 
+| S.no          | Properties    |
+| ------------- | ------------- |
+| 1  | Tags  |
+| 2 |  Rating |
+| 3 | Color label  |
+| 4 | Pick label  |
+| 5 | Comments  |
+| 6 | GPS information  |
 
 <a href="https://ibb.co/cXkYM2Y"><img src="https://i.ibb.co/S75fWVf/Screenshot-2023-07-02-224058.png" alt="Screenshot-2023-07-02-224058" border="0"></a>
 
