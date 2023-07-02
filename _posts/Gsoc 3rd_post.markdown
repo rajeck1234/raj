@@ -1,8 +1,7 @@
-
 ---
-layout: post 2
+layout: post 3
 title: "GsoC 2023 Third_Post"
-date:   2023-06-01 02:00:36 +0530
+date:   2023-07-01 02:00:36 +0530
 categories: gsoc
 tags: kde gsoc
 ---
