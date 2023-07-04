@@ -28,8 +28,7 @@ I am particularly interested in exploring possibilities for enhancing its functi
 | 5 | Comments  |
 | 6 | GPS information  |
 
-<a href="https://ibb.co/cXkYM2Y"><img src="https://i.ibb.co/S75fWVf/Screenshot-2023-07-02-224058.png" alt="Screenshot-2023-07-02-224058" border="0"></a>
-
+<a href="https://ibb.co/zPB9PDC"><img src="https://i.ibb.co/HGbwG3R/Screenshot-2023-07-05-010058.png" alt="Screenshot-2023-07-05-010058" border="0"></a>
 To facilitate the realization of this goal, I have submitted a merge request to initiate the implementation process.
 It is my firm belief that this comprehensive approach will enable the seamless integration of the desired features, with a specific focus on metadata information related to various elements,
 such as tags, ratings, color labels, pick labels, titles, comments, and GPS information. Consequently, the selected metadata will be successfully copied from the source ItemInfo and propagated
