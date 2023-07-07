@@ -24,7 +24,7 @@ author: Utkarsh
 description: >- # this means to ignore newlines until "baseurl:"
   I will be uploading Season of KDE blogposts here and other random stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/rajeck1234/raj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://utkarsh12.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  rajeck1234
 
