@@ -6,7 +6,7 @@ categories: gsoc
 tags: kde gsoc
 ---
 
-During the course of this week, my primary objective is to incorporate the functionality of copying and pasting tags within the context of the Digikam application software.
+During the course of this week , my primary objective is to incorporate the functionality of copying and pasting tags within the context of the Digikam application software.
 In order to achieve this, I have been working within the Digikam context helper menu, ensuring the availability of all the necessary data. The focal point of my efforts lies
 in the modification of this particular section by introducing a copy feature, which will enable users to duplicate and subsequently paste metadata tags according to their respective
 labels.
