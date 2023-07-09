@@ -7,7 +7,7 @@ tags: kde gsoc
 ---
 As per the prescribed instructions, I intend to incorporate a copy menu and a paste menu, specifically designed to handle the duplication and subsequent transfer of metadata. Additionally, I have dedicated considerable time in the past weeks to familiarize myself with the fundamental aspects of Digikam, enabling me to leverage its properties effectively. I am particularly interested in exploring possibilities for enhancing its functionality by incorporating new menu options.
 
-In the app section, it is imperative to integrate a ContextMenuHelper file section, which assumes the role of a centralized repository for housing all the properties pertaining to the app. These properties encompass a wide range of actions, including the addition of tags and the provision of comprehensive details regarding the tags. The primary objective of this section is to achieve the following:
+In the app section, it is imperative to integrate a ContextMenuHelper file section, which assumes the role of a centralized repository for housing all the properties pertaining to the app. These properties encompass a wide range of actions, including the addition of tags and the provision of comprehensive details regarding the tags. The primary objective of this section is to achieve the following:-
 
 1. Introduce a copy functionality that empowers users to replicate both the name and corresponding value of a tag, subsequently allowing them to paste the copied tag. It is important to note that this particular capability should be applicable to all file sections that are associated with the given tag.
 
