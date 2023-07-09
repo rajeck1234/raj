@@ -15,7 +15,7 @@ In the app section, it is imperative to integrate a ContextMenuHelper file secti
 
 3. Augment the contextmenuhelper_tag by incorporating all the essential functions that are directly associated with tags. This enhancement necessitates the modification of existing functions to include the copy and paste options, thus empowering users with comprehensive control over the management and manipulation of tags within the app section.
    
-<a href="https://ibb.co/p0rFQVc"><img src="https://i.ibb.co/HFp8Cw6/Screenshot-2023-07-09-132213.png" alt="Screenshot-2023-07-09-132213" border="0"></a>
+![my work](https://i.postimg.cc/W1hhYk1S/Screenshot-2023-07-09-132213.png)
 
 Exploring the Connecting Connection
 
@@ -36,7 +36,7 @@ The crucial role of both the context menu helper and import context menu becomes
 | 5 | Comments  |
 | 6 | GPS information |
 
-<a href="https://ibb.co/r0MjkLv"><img src="https://i.ibb.co/54v0Tz2/Screenshot-2023-07-09-141837.png" alt="Screenshot-2023-07-09-141837" border="0"></a>
+![my work](https://i.postimg.cc/cLnd8MHq/Screenshot-2023-07-09-141837.png)
 
 In the latest development, I have successfully implemented the icon view for the paste menu in the color label section. Specifically, within the icon view, I have incorporated the paste option, enabling users to directly paste data points and establish connections between the copy and paste functionalities. This enhancement has been integrated into the ImportContextMenu_Tag section, where the necessary connections have been provided.
 
