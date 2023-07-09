@@ -41,3 +41,13 @@ The crucial role of both the context menu helper and import context menu becomes
 In the latest development, I have successfully implemented the icon view for the paste menu in the color label section. Specifically, within the icon view, I have incorporated the paste option, enabling users to directly paste data points and establish connections between the copy and paste functionalities. This enhancement has been integrated into the ImportContextMenu_Tag section, where the necessary connections have been provided.
 
 Furthermore, I made appropriate modifications to both the ImportContextMenu and ImportContextMenuHelper, ensuring the proper implementation and functionality of the copy section. This entails considering the implementation details and ensuring its seamless integration into the overall system. Also assigned the tag name and value.
+
+GPS Location
+
+In the GPS location section, the longitude, latitude, and altitude data are provided as essential metadata. To enhance functionality, I am incorporating an option to store this metadata using a vector. Subsequently, this section will be copied and integrated into the save changes section, allowing the application of these metadata adjustments to the subsequent selected items. In the core section, I have implemented the necessary code to facilitate the storage and application of these changes.
+
+![my work](https://i.postimg.cc/wvc2vMHr/Screenshot-2023-07-10-022845.png)
+
+In this GPS Location section, most of the work is done only work is left to make a change in item info for the next selected item info.
+
+Write Now implemented the code for it in My MR.
