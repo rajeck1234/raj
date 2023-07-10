@@ -59,6 +59,7 @@ The crucial role of both the context menu helper and import context menu becomes
 | 5 | Comments  |
 | 6 | GPS information |
 
+
 ![my work](https://i.postimg.cc/cLnd8MHq/Screenshot-2023-07-09-141837.png)
 
 In the latest development, I have successfully implemented the icon view for the paste menu in the color label section. Specifically, within the icon view, I have incorporated the paste option, enabling users to directly paste data points and establish connections between the copy and paste functionalities. This enhancement has been integrated into the ImportContextMenu_Tag section, where the necessary connections have been provided.
