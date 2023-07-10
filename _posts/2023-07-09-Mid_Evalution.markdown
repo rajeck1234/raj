@@ -5,6 +5,27 @@ date:   2023-07-09 02:00:36 +0530
 categories: gsoc
 tags: kde gsoc
 ---
+## TASK COMPLETED
+
+ 1 Rating copy paste
+
+ 2 ColorLabel copy paste
+
+ 3 PickLabel copy paste
+
+ 4 GPS Location
+
+ 5 Tag Value 6 Tag Name
+
+
+## TASK IN PROGRESS
+
+ 1 Combing them all in single MetadataColection copy and Paste option
+
+ 2 Comments
+
+ 3 Title
+
 As per the prescribed instructions, I intend to incorporate a copy menu and a paste menu, specifically designed to handle the duplication and subsequent transfer of metadata. Additionally, I have dedicated considerable time in the past weeks to familiarize myself with the fundamental aspects of Digikam, enabling me to leverage its properties effectively. I am particularly interested in exploring possibilities for enhancing its functionality by incorporating new menu options.
 
 In the app section, it is imperative to integrate a ContextMenuHelper file section, which assumes the role of a centralized repository for housing all the properties pertaining to the app. These properties encompass a wide range of actions, including the addition of tags and the provision of comprehensive details regarding the tags. The primary objective of this section is to achieve the following:-
