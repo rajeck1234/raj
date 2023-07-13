@@ -66,7 +66,7 @@ In the latest development, I have successfully implemented the icon view for the
 
 Furthermore, I made appropriate modifications to both the ImportContextMenu and ImportContextMenuHelper, ensuring the proper implementation and functionality of the copy section. This entails considering the implementation details and ensuring its seamless integration into the overall system. Also assigned the tag name and value.
 
-GPS Location
+## GPS Location
 
 In the GPS location section, the longitude, latitude, and altitude data are provided as essential metadata. To enhance functionality, I am incorporating an option to store this metadata using a vector. Subsequently, this section will be copied and integrated into the save changes section, allowing the application of these metadata adjustments to the subsequent selected items. In the core section, I have implemented the necessary code to facilitate the storage and application of these changes.
 
