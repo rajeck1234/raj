@@ -5,7 +5,7 @@ date:   2023-07-08 02:00:36 +0530
 categories: gsoc
 tags: kde gsoc
 ---
-utkarsh During the course of this week, significant progress has been made in completing the copy section pertaining to the labels section.
+During the course of this week, significant progress has been made in completing the copy section pertaining to the labels section.
 The systematic approach I have undertaken involves a series of steps. Primarily, within the metadata section, one encounters multiple
 files, such as colorlabel, picklabel, and rating, all of which necessitate seamless integration with the Digikam application manager,
 the platform housing the image album.
